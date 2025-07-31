@@ -117,7 +117,7 @@ data-warehouse-project/
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License].  
 You’re free to use, modify, or share this project with proper attribution.
 
 ---
