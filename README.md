@@ -119,10 +119,3 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License].  
 You’re free to use, modify, or share this project with proper attribution.
-
----
-
-## Connect with Me
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjalalkhan/)
-[![](https://img.shields.io/badge/Website-232F3E?style=for-the-badge&logo=globe&logoColor=white)](https://jalaldataworks.netlify.app/)
